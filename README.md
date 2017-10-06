@@ -5,7 +5,7 @@
 
 <hr>
 
-![putzfrau logo](https://s3.eu-central-1.amazonaws.com/bersling/images/001-maid.png)
+<img src="https://s3.eu-central-1.amazonaws.com/bersling/images/001-maid.png" alt="Putzfrau-Logo" style="width: 200px;"/>
 
 # Pre-Alpha Release
 
