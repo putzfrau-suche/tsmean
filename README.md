@@ -5,7 +5,7 @@
 
 <hr>
 
-<img src="https://s3.eu-central-1.amazonaws.com/bersling/images/001-maid.png" alt="Putzfrau-Logo" style="width: 200px;"/>
+<img src="https://s3.eu-central-1.amazonaws.com/bersling/images/001-maid.png" alt="Putzfrau-Logo" width="200"/>
 
 # Pre-Alpha Release
 
