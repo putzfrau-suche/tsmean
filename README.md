@@ -5,7 +5,7 @@
 
 <hr>
 
-![tsmean logo](https://s3.eu-central-1.amazonaws.com/bersling/images/tsmean-logo.png)
+![putzfrau logo](https://s3.eu-central-1.amazonaws.com/bersling/images/001-maid.png)
 
 # Pre-Alpha Release
 
